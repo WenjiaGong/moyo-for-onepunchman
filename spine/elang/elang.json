@@ -1,0 +1,136 @@
+{ "skeleton": { "images": "E:/Resource/spine/elang/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Fx_Guang", "bone": "root", "attachment": "Fx_Guang" },
+	{ "name": "Sc_ZhuZi", "bone": "root", "attachment": "Sc_ZhuZi" },
+	{ "name": "L_Jiao", "bone": "root", "attachment": "L_Jiao" },
+	{ "name": "R_Jiao", "bone": "root", "attachment": "R_Jiao" },
+	{ "name": "L_XiaoTui", "bone": "root", "attachment": "L_XiaoTui" },
+	{ "name": "R_XiaoTui", "bone": "root", "attachment": "R_XiaoTui" },
+	{ "name": "L_DaTui", "bone": "root", "attachment": "L_DaTui" },
+	{ "name": "C_FuBu", "bone": "root", "attachment": "C_FuBu" },
+	{ "name": "R_DaTui", "bone": "root", "attachment": "R_DaTui" },
+	{ "name": "R_PiaoDai", "bone": "root", "attachment": "R_PiaoDai" },
+	{ "name": "L_PiaoDai", "bone": "root", "attachment": "L_PiaoDai" },
+	{ "name": "C_Xiong", "bone": "root", "attachment": "C_Xiong" },
+	{ "name": "L_ShouZhi5", "bone": "root", "attachment": "L_ShouZhi5" },
+	{ "name": "L_ShouZhi2", "bone": "root", "attachment": "L_ShouZhi2" },
+	{ "name": "L_ShouZhi3", "bone": "root", "attachment": "L_ShouZhi3" },
+	{ "name": "L_ShouZhi4", "bone": "root", "attachment": "L_ShouZhi4" },
+	{ "name": "L_ShouZhang", "bone": "root", "attachment": "L_ShouZhang" },
+	{ "name": "L_ShangBi", "bone": "root", "attachment": "L_ShangBi" },
+	{ "name": "L_XiaBi", "bone": "root", "attachment": "L_XiaBi" },
+	{ "name": "R_ShouZhi2", "bone": "root", "attachment": "R_ShouZhi2" },
+	{ "name": "R_ShouZhi3", "bone": "root", "attachment": "R_ShouZhi3" },
+	{ "name": "R_ShouZhi4", "bone": "root", "attachment": "R_ShouZhi4" },
+	{ "name": "R_ShouZhi5B", "bone": "root", "attachment": "R_ShouZhi5B" },
+	{ "name": "R_ShouZhi5A", "bone": "root", "attachment": "R_ShouZhi5A" },
+	{ "name": "R_ShouZhang", "bone": "root", "attachment": "R_ShouZhang" },
+	{ "name": "R_ShangBi", "bone": "root", "attachment": "R_ShangBi" },
+	{ "name": "R_XiaBi", "bone": "root", "attachment": "R_XiaBi" },
+	{ "name": "C_Zui", "bone": "root", "attachment": "C_Zui" },
+	{ "name": "C_Tou", "bone": "root", "attachment": "C_Tou" },
+	{ "name": "L_Yan", "bone": "root", "attachment": "L_Yan" },
+	{ "name": "R_Yan", "bone": "root", "attachment": "R_Yan" }
+],
+"skins": {
+	"default": {
+		"Fx_Guang": {
+			"Fx_Guang": { "x": 600.5, "y": -776.5, "width": 1117, "height": 1477 }
+		},
+		"Sc_ZhuZi": {
+			"Sc_ZhuZi": { "x": 633.5, "y": -1301.5, "width": 303, "height": 403 }
+		},
+		"L_Jiao": {
+			"L_Jiao": { "x": 722, "y": -1043, "width": 186, "height": 244 }
+		},
+		"R_Jiao": {
+			"R_Jiao": { "x": 564.5, "y": -988.5, "width": 139, "height": 303 }
+		},
+		"L_XiaoTui": {
+			"L_XiaoTui": { "x": 926.5, "y": -780.5, "width": 429, "height": 425 }
+		},
+		"R_XiaoTui": {
+			"R_XiaoTui": { "x": 336, "y": -900.5, "width": 510, "height": 201 }
+		},
+		"L_DaTui": {
+			"L_DaTui": { "x": 860, "y": -679, "width": 562, "height": 320 }
+		},
+		"C_FuBu": {
+			"C_FuBu": { "x": 574.5, "y": -658.5, "width": 329, "height": 383 }
+		},
+		"R_DaTui": {
+			"R_DaTui": { "x": 352, "y": -807.5, "width": 572, "height": 335 }
+		},
+		"R_PiaoDai": {
+			"R_PiaoDai": { "x": 550.5, "y": -803.5, "width": 55, "height": 309 }
+		},
+		"L_PiaoDai": {
+			"L_PiaoDai": { "x": 644, "y": -813.5, "width": 88, "height": 313 }
+		},
+		"C_Xiong": {
+			"C_Xiong": { "x": 525.5, "y": -398.5, "width": 595, "height": 383 }
+		},
+		"L_ShouZhi5": {
+			"L_ShouZhi5": { "x": 633.5, "y": -1309.5, "width": 59, "height": 87 }
+		},
+		"L_ShouZhi2": {
+			"L_ShouZhi2": { "x": 540, "y": -1336.5, "width": 58, "height": 157 }
+		},
+		"L_ShouZhi3": {
+			"L_ShouZhi3": { "x": 573, "y": -1334.5, "width": 56, "height": 143 }
+		},
+		"L_ShouZhi4": {
+			"L_ShouZhi4": { "x": 607.5, "y": -1326.5, "width": 53, "height": 105 }
+		},
+		"L_ShouZhang": {
+			"L_ShouZhang": { "x": 595.5, "y": -1230, "width": 165, "height": 200 }
+		},
+		"L_ShangBi": {
+			"L_ShangBi": { "x": 705, "y": -597.5, "width": 228, "height": 663 }
+		},
+		"L_XiaBi": {
+			"L_XiaBi": { "x": 683, "y": -1001, "width": 212, "height": 406 }
+		},
+		"R_ShouZhi2": {
+			"R_ShouZhi2": { "x": 497, "y": -999, "width": 42, "height": 142 }
+		},
+		"R_ShouZhi3": {
+			"R_ShouZhi3": { "x": 477.5, "y": -1001.5, "width": 59, "height": 167 }
+		},
+		"R_ShouZhi4": {
+			"R_ShouZhi4": { "x": 453, "y": -958, "width": 72, "height": 106 }
+		},
+		"R_ShouZhi5B": {
+			"R_ShouZhi5B": { "x": 419, "y": -968, "width": 38, "height": 72 }
+		},
+		"R_ShouZhi5A": {
+			"R_ShouZhi5A": { "x": 436.5, "y": -963, "width": 63, "height": 80 }
+		},
+		"R_ShouZhang": {
+			"R_ShouZhang": { "x": 436, "y": -887, "width": 164, "height": 210 }
+		},
+		"R_ShangBi": {
+			"R_ShangBi": { "x": 232.5, "y": -545, "width": 271, "height": 468 }
+		},
+		"R_XiaBi": {
+			"R_XiaBi": { "x": 289, "y": -756.5, "width": 386, "height": 227 }
+		},
+		"C_Zui": {
+			"C_Zui": { "x": 500.5, "y": -506, "width": 103, "height": 42 }
+		},
+		"C_Tou": {
+			"C_Tou": { "x": 498.5, "y": -307.5, "width": 449, "height": 515 }
+		},
+		"L_Yan": {
+			"L_Yan": { "x": 542.5, "y": -417, "width": 65, "height": 36 }
+		},
+		"R_Yan": {
+			"R_Yan": { "x": 454, "y": -420, "width": 62, "height": 34 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
