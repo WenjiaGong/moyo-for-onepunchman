@@ -33,6 +33,11 @@
 	{ "name": "DaTui_R", "bone": "root", "attachment": "DaTui_R" },
 	{ "name": "NaiZi_L", "bone": "root", "attachment": "NaiZi_L" },
 	{ "name": "NaiZi_R", "bone": "root", "attachment": "NaiZi_R" },
+	{ "name": "TouFa05_C", "bone": "root", "attachment": "TouFa05_C" },
+	{ "name": "TouFa01_C", "bone": "root", "attachment": "TouFa01_C" },
+	{ "name": "TouFa04_C", "bone": "root", "attachment": "TouFa04_C" },
+	{ "name": "TouFa03_C", "bone": "root", "attachment": "TouFa03_C" },
+	{ "name": "TouFa02_C", "bone": "root", "attachment": "TouFa02_C" },
 	{ "name": "Tou_C", "bone": "root", "attachment": "Tou_C" }
 ],
 "skins": {
@@ -127,8 +132,23 @@
 		"NaiZi_R": {
 			"NaiZi_R": { "x": 924, "y": -1303.5, "width": 120, "height": 107 }
 		},
+		"TouFa05_C": {
+			"TouFa05_C": { "x": 1136, "y": -954.5, "width": 262, "height": 335 }
+		},
+		"TouFa01_C": {
+			"TouFa01_C": { "x": 767, "y": -1001, "width": 298, "height": 340 }
+		},
+		"TouFa04_C": {
+			"TouFa04_C": { "x": 1066.5, "y": -838, "width": 223, "height": 422 }
+		},
+		"TouFa03_C": {
+			"TouFa03_C": { "x": 976.5, "y": -757, "width": 265, "height": 522 }
+		},
+		"TouFa02_C": {
+			"TouFa02_C": { "x": 811.5, "y": -853, "width": 245, "height": 424 }
+		},
 		"Tou_C": {
-			"Tou_C": { "x": 942.5, "y": -848.5, "width": 649, "height": 705 }
+			"Tou_C": { "x": 952, "y": -1024.5, "width": 348, "height": 353 }
 		}
 	}
 },
