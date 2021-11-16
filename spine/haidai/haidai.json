@@ -1,0 +1,180 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine/haidai/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "TouFa38", "bone": "root", "attachment": "TouFa38" },
+	{ "name": "TouFa37", "bone": "root", "attachment": "TouFa37" },
+	{ "name": "TouFa36", "bone": "root", "attachment": "TouFa36" },
+	{ "name": "TouFa35", "bone": "root", "attachment": "TouFa35" },
+	{ "name": "TouFa34", "bone": "root", "attachment": "TouFa34" },
+	{ "name": "TouFa33", "bone": "root", "attachment": "TouFa33" },
+	{ "name": "TouFa32", "bone": "root", "attachment": "TouFa32" },
+	{ "name": "TouFa31", "bone": "root", "attachment": "TouFa31" },
+	{ "name": "TouFa30", "bone": "root", "attachment": "TouFa30" },
+	{ "name": "TouFa29", "bone": "root", "attachment": "TouFa29" },
+	{ "name": "TouFa28", "bone": "root", "attachment": "TouFa28" },
+	{ "name": "TouFa27", "bone": "root", "attachment": "TouFa27" },
+	{ "name": "TouFa26", "bone": "root", "attachment": "TouFa26" },
+	{ "name": "TouFa25", "bone": "root", "attachment": "TouFa25" },
+	{ "name": "TouFa24", "bone": "root", "attachment": "TouFa24" },
+	{ "name": "TouFa23", "bone": "root", "attachment": "TouFa23" },
+	{ "name": "TouFa22", "bone": "root", "attachment": "TouFa22" },
+	{ "name": "TouFa21", "bone": "root", "attachment": "TouFa21" },
+	{ "name": "TouFa20", "bone": "root", "attachment": "TouFa20" },
+	{ "name": "TouFa19", "bone": "root", "attachment": "TouFa19" },
+	{ "name": "TouFa18", "bone": "root", "attachment": "TouFa18" },
+	{ "name": "TouFa17", "bone": "root", "attachment": "TouFa17" },
+	{ "name": "TouFa16", "bone": "root", "attachment": "TouFa16" },
+	{ "name": "TouFa15", "bone": "root", "attachment": "TouFa15" },
+	{ "name": "TouFa14", "bone": "root", "attachment": "TouFa14" },
+	{ "name": "TouFa13", "bone": "root", "attachment": "TouFa13" },
+	{ "name": "TouFa12", "bone": "root", "attachment": "TouFa12" },
+	{ "name": "TouFa11", "bone": "root", "attachment": "TouFa11" },
+	{ "name": "TouFa10", "bone": "root", "attachment": "TouFa10" },
+	{ "name": "TouFa09", "bone": "root", "attachment": "TouFa09" },
+	{ "name": "TouFa08", "bone": "root", "attachment": "TouFa08" },
+	{ "name": "TouFa07", "bone": "root", "attachment": "TouFa07" },
+	{ "name": "KouQiang_C", "bone": "root", "attachment": "KouQiang_C" },
+	{ "name": "ShenTi_C", "bone": "root", "attachment": "ShenTi_C" },
+	{ "name": "YanJing_L", "bone": "root", "attachment": "YanJing_L" },
+	{ "name": "YanJing_R", "bone": "root", "attachment": "YanJing_R" },
+	{ "name": "TouFa06", "bone": "root", "attachment": "TouFa06" },
+	{ "name": "TouFa05", "bone": "root", "attachment": "TouFa05" },
+	{ "name": "TouFa04", "bone": "root", "attachment": "TouFa04" },
+	{ "name": "TouFa03", "bone": "root", "attachment": "TouFa03" },
+	{ "name": "TouFa02", "bone": "root", "attachment": "TouFa02" },
+	{ "name": "TouFa01", "bone": "root", "attachment": "TouFa01" }
+],
+"skins": {
+	"default": {
+		"TouFa38": {
+			"TouFa38": { "x": 469, "y": -505, "width": 162, "height": 654 }
+		},
+		"TouFa37": {
+			"TouFa37": { "x": 699, "y": -497, "width": 122, "height": 664 }
+		},
+		"TouFa36": {
+			"TouFa36": { "x": 589, "y": -427.5, "width": 106, "height": 591 }
+		},
+		"TouFa35": {
+			"TouFa35": { "x": 435, "y": -413.5, "width": 248, "height": 653 }
+		},
+		"TouFa34": {
+			"TouFa34": { "x": 779.5, "y": -428.5, "width": 309, "height": 627 }
+		},
+		"TouFa33": {
+			"TouFa33": { "x": 708.5, "y": -481, "width": 175, "height": 658 }
+		},
+		"TouFa32": {
+			"TouFa32": { "x": 727, "y": -441, "width": 212, "height": 692 }
+		},
+		"TouFa31": {
+			"TouFa31": { "x": 456.5, "y": -484, "width": 175, "height": 658 }
+		},
+		"TouFa30": {
+			"TouFa30": { "x": 462.5, "y": -468.5, "width": 163, "height": 741 }
+		},
+		"TouFa29": {
+			"TouFa29": { "x": 339, "y": -436.5, "width": 314, "height": 611 }
+		},
+		"TouFa28": {
+			"TouFa28": { "x": 390, "y": -456, "width": 254, "height": 612 }
+		},
+		"TouFa27": {
+			"TouFa27": { "x": 775.5, "y": -399.5, "width": 317, "height": 633 }
+		},
+		"TouFa26": {
+			"TouFa26": { "x": 722, "y": -427.5, "width": 226, "height": 585 }
+		},
+		"TouFa25": {
+			"TouFa25": { "x": 778.5, "y": -360.5, "width": 321, "height": 547 }
+		},
+		"TouFa24": {
+			"TouFa24": { "x": 492, "y": -606, "width": 124, "height": 652 }
+		},
+		"TouFa23": {
+			"TouFa23": { "x": 659, "y": -606, "width": 124, "height": 652 }
+		},
+		"TouFa22": {
+			"TouFa22": { "x": 543.5, "y": -506, "width": 89, "height": 742 }
+		},
+		"TouFa21": {
+			"TouFa21": { "x": 616, "y": -523, "width": 76, "height": 776 }
+		},
+		"TouFa20": {
+			"TouFa20": { "x": 513.5, "y": -446, "width": 135, "height": 782 }
+		},
+		"TouFa19": {
+			"TouFa19": { "x": 642.5, "y": -446, "width": 135, "height": 782 }
+		},
+		"TouFa18": {
+			"TouFa18": { "x": 369.5, "y": -360.5, "width": 321, "height": 547 }
+		},
+		"TouFa17": {
+			"TouFa17": { "x": 372, "y": -461, "width": 318, "height": 752 }
+		},
+		"TouFa16": {
+			"TouFa16": { "x": 775, "y": -435, "width": 318, "height": 700 }
+		},
+		"TouFa15": {
+			"TouFa15": { "x": 745, "y": -451.5, "width": 326, "height": 813 }
+		},
+		"TouFa14": {
+			"TouFa14": { "x": 404, "y": -427.5, "width": 326, "height": 765 }
+		},
+		"TouFa13": {
+			"TouFa13": { "x": 563, "y": -399, "width": 118, "height": 728 }
+		},
+		"TouFa12": {
+			"TouFa12": { "x": 692, "y": -434.5, "width": 208, "height": 779 }
+		},
+		"TouFa11": {
+			"TouFa11": { "x": 456.5, "y": -434, "width": 205, "height": 778 }
+		},
+		"TouFa10": {
+			"TouFa10": { "x": 732.5, "y": -312, "width": 327, "height": 542 }
+		},
+		"TouFa09": {
+			"TouFa09": { "x": 397.5, "y": -368.5, "width": 355, "height": 655 }
+		},
+		"TouFa08": {
+			"TouFa08": { "x": 377.5, "y": -384, "width": 399, "height": 668 }
+		},
+		"TouFa07": {
+			"TouFa07": { "x": 767.5, "y": -384.5, "width": 399, "height": 669 }
+		},
+		"KouQiang_C": {
+			"KouQiang_C": { "x": 572, "y": -186.5, "width": 102, "height": 59 }
+		},
+		"ShenTi_C": {
+			"ShenTi_C": { "x": 572.5, "y": -531.5, "width": 639, "height": 975 }
+		},
+		"YanJing_L": {
+			"YanJing_L": { "x": 600.5, "y": -147, "width": 39, "height": 38 }
+		},
+		"YanJing_R": {
+			"YanJing_R": { "x": 547, "y": -149, "width": 46, "height": 46 }
+		},
+		"TouFa06": {
+			"TouFa06": { "x": 705.5, "y": -489.5, "width": 185, "height": 669 }
+		},
+		"TouFa05": {
+			"TouFa05": { "x": 439, "y": -486, "width": 184, "height": 680 }
+		},
+		"TouFa04": {
+			"TouFa04": { "x": 787.5, "y": -439, "width": 319, "height": 624 }
+		},
+		"TouFa03": {
+			"TouFa03": { "x": 358.5, "y": -443.5, "width": 317, "height": 615 }
+		},
+		"TouFa02": {
+			"TouFa02": { "x": 573, "y": -420.5, "width": 688, "height": 719 }
+		},
+		"TouFa01": {
+			"TouFa01": { "x": 574, "y": -459.5, "width": 382, "height": 779 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
