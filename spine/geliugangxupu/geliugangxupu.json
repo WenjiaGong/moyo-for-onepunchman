@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine/geliugangxupu/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "ChuShou11", "bone": "root", "attachment": "ChuShou11" },
+	{ "name": "ChuShou10", "bone": "root", "attachment": "ChuShou10" },
+	{ "name": "ChuShou09", "bone": "root", "attachment": "ChuShou09" },
+	{ "name": "ChuShou08", "bone": "root", "attachment": "ChuShou08" },
+	{ "name": "ChuShou07", "bone": "root", "attachment": "ChuShou07" },
+	{ "name": "ChuShou06", "bone": "root", "attachment": "ChuShou06" },
+	{ "name": "ChuShou05", "bone": "root", "attachment": "ChuShou05" },
+	{ "name": "ChuShou04", "bone": "root", "attachment": "ChuShou04" },
+	{ "name": "ChuShou03", "bone": "root", "attachment": "ChuShou03" },
+	{ "name": "ChuShou02", "bone": "root", "attachment": "ChuShou02" },
+	{ "name": "ChuShou01", "bone": "root", "attachment": "ChuShou01" },
+	{ "name": "Tou_C", "bone": "root", "attachment": "Tou_C" },
+	{ "name": "YanJing_L", "bone": "root", "attachment": "YanJing_L" },
+	{ "name": "YanJing_R", "bone": "root", "attachment": "YanJing_R" }
+],
+"skins": {
+	"default": {
+		"ChuShou11": {
+			"ChuShou11": { "x": 1001.5, "y": -786.5, "width": 119, "height": 597 }
+		},
+		"ChuShou10": {
+			"ChuShou10": { "x": 1086, "y": -708.5, "width": 232, "height": 753 }
+		},
+		"ChuShou09": {
+			"ChuShou09": { "x": 842.5, "y": -700, "width": 179, "height": 770 }
+		},
+		"ChuShou08": {
+			"ChuShou08": { "x": 927.5, "y": -695.5, "width": 131, "height": 779 }
+		},
+		"ChuShou07": {
+			"ChuShou07": { "x": 788, "y": -698.5, "width": 236, "height": 773 }
+		},
+		"ChuShou06": {
+			"ChuShou06": { "x": 1092, "y": -676, "width": 286, "height": 818 }
+		},
+		"ChuShou05": {
+			"ChuShou05": { "x": 991.5, "y": -674.5, "width": 107, "height": 821 }
+		},
+		"ChuShou04": {
+			"ChuShou04": { "x": 819, "y": -680, "width": 222, "height": 810 }
+		},
+		"ChuShou03": {
+			"ChuShou03": { "x": 1263, "y": -600.5, "width": 666, "height": 747 }
+		},
+		"ChuShou02": {
+			"ChuShou02": { "x": 709, "y": -484.5, "width": 486, "height": 523 }
+		},
+		"ChuShou01": {
+			"ChuShou01": { "x": 905.5, "y": -586.5, "width": 191, "height": 997 }
+		},
+		"Tou_C": {
+			"Tou_C": { "x": 945, "y": -96, "width": 112, "height": 166 }
+		},
+		"YanJing_L": {
+			"YanJing_L": { "x": 965, "y": -103, "width": 32, "height": 42 }
+		},
+		"YanJing_R": {
+			"YanJing_R": { "x": 923, "y": -103.5, "width": 32, "height": 43 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
