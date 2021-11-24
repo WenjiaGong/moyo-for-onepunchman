@@ -13,6 +13,7 @@
 	{ "name": "ChuShou04", "bone": "root", "attachment": "ChuShou04" },
 	{ "name": "ChuShou03", "bone": "root", "attachment": "ChuShou03" },
 	{ "name": "ChuShou02", "bone": "root", "attachment": "ChuShou02" },
+	{ "name": "ChuShou01B", "bone": "root", "attachment": "ChuShou01B" },
 	{ "name": "ChuShou01", "bone": "root", "attachment": "ChuShou01" },
 	{ "name": "Tou_C", "bone": "root", "attachment": "Tou_C" },
 	{ "name": "YanJing_L", "bone": "root", "attachment": "YanJing_L" },
@@ -49,6 +50,9 @@
 		},
 		"ChuShou02": {
 			"ChuShou02": { "x": 709, "y": -484.5, "width": 486, "height": 523 }
+		},
+		"ChuShou01B": {
+			"ChuShou01B": { "x": 561.5, "y": -586, "width": 191, "height": 320 }
 		},
 		"ChuShou01": {
 			"ChuShou01": { "x": 905.5, "y": -586.5, "width": 191, "height": 997 }
