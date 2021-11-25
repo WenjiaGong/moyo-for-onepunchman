@@ -1,0 +1,80 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine/geluolibasi/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "GeBoA_R", "bone": "root", "attachment": "GeBoA_R" },
+	{ "name": "GeBoB_R", "bone": "root", "attachment": "GeBoB_R" },
+	{ "name": "ShouB_R", "bone": "root", "attachment": "ShouB_R" },
+	{ "name": "ShouA_R", "bone": "root", "attachment": "ShouA_R" },
+	{ "name": "ShenTi_C", "bone": "root", "attachment": "ShenTi_C" },
+	{ "name": "TuiB_L", "bone": "root", "attachment": "TuiB_L" },
+	{ "name": "TuiA_L", "bone": "root", "attachment": "TuiA_L" },
+	{ "name": "TuiB_R", "bone": "root", "attachment": "TuiB_R" },
+	{ "name": "TuiA_R", "bone": "root", "attachment": "TuiA_R" },
+	{ "name": "GeBoA_L", "bone": "root", "attachment": "GeBoA_L" },
+	{ "name": "GeBoB_L", "bone": "root", "attachment": "GeBoB_L" },
+	{ "name": "ShouC_L", "bone": "root", "attachment": "ShouC_L" },
+	{ "name": "ShouB_L", "bone": "root", "attachment": "ShouB_L" },
+	{ "name": "ShouA_L", "bone": "root", "attachment": "ShouA_L" },
+	{ "name": "KouQiang_C", "bone": "root", "attachment": "KouQiang_C" },
+	{ "name": "Tou_C", "bone": "root", "attachment": "Tou_C" },
+	{ "name": "Zui_C", "bone": "root", "attachment": "Zui_C" }
+],
+"skins": {
+	"default": {
+		"GeBoA_R": {
+			"GeBoA_R": { "x": 716.5, "y": -337.5, "width": 231, "height": 289 }
+		},
+		"GeBoB_R": {
+			"GeBoB_R": { "x": 601.5, "y": -470, "width": 171, "height": 204 }
+		},
+		"ShouB_R": {
+			"ShouB_R": { "x": 546, "y": -555.5, "width": 206, "height": 225 }
+		},
+		"ShouA_R": {
+			"ShouA_R": { "x": 539, "y": -499, "width": 192, "height": 146 }
+		},
+		"ShenTi_C": {
+			"ShenTi_C": { "x": 905, "y": -467, "width": 390, "height": 590 }
+		},
+		"TuiB_L": {
+			"TuiB_L": { "x": 1125.5, "y": -1041, "width": 195, "height": 332 }
+		},
+		"TuiA_L": {
+			"TuiA_L": { "x": 1031.5, "y": -821.5, "width": 261, "height": 349 }
+		},
+		"TuiB_R": {
+			"TuiB_R": { "x": 665, "y": -1051.5, "width": 160, "height": 311 }
+		},
+		"TuiA_R": {
+			"TuiA_R": { "x": 736.5, "y": -806.5, "width": 277, "height": 341 }
+		},
+		"GeBoA_L": {
+			"GeBoA_L": { "x": 1161.5, "y": -362, "width": 241, "height": 312 }
+		},
+		"GeBoB_L": {
+			"GeBoB_L": { "x": 1251.5, "y": -520.5, "width": 181, "height": 265 }
+		},
+		"ShouC_L": {
+			"ShouC_L": { "x": 1270, "y": -622.5, "width": 172, "height": 189 }
+		},
+		"ShouB_L": {
+			"ShouB_L": { "x": 1264.5, "y": -640, "width": 159, "height": 186 }
+		},
+		"ShouA_L": {
+			"ShouA_L": { "x": 1297, "y": -595, "width": 192, "height": 176 }
+		},
+		"KouQiang_C": {
+			"KouQiang_C": { "x": 884, "y": -173.5, "width": 138, "height": 127 }
+		},
+		"Tou_C": {
+			"Tou_C": { "x": 885, "y": -117, "width": 180, "height": 208 }
+		},
+		"Zui_C": {
+			"Zui_C": { "x": 888.5, "y": -212, "width": 167, "height": 100 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
