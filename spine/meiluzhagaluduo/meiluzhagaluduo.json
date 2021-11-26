@@ -1,0 +1,92 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine/meiluzhagaluduo/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "ChiBang_L", "bone": "root", "attachment": "ChiBang_L" },
+	{ "name": "ChiBang_R", "bone": "root", "attachment": "ChiBang_R" },
+	{ "name": "ShenTi_C", "bone": "root", "attachment": "ShenTi_C" },
+	{ "name": "Tui03_L", "bone": "root", "attachment": "Tui03_L" },
+	{ "name": "Tui02_L", "bone": "root", "attachment": "Tui02_L" },
+	{ "name": "Tui01_L", "bone": "root", "attachment": "Tui01_L" },
+	{ "name": "Tui03_R", "bone": "root", "attachment": "Tui03_R" },
+	{ "name": "Tui02_R", "bone": "root", "attachment": "Tui02_R" },
+	{ "name": "Tui01_R", "bone": "root", "attachment": "Tui01_R" },
+	{ "name": "GeBo01_L", "bone": "root", "attachment": "GeBo01_L" },
+	{ "name": "GeBo02_L", "bone": "root", "attachment": "GeBo02_L" },
+	{ "name": "GeBo01_R", "bone": "root", "attachment": "GeBo01_R" },
+	{ "name": "GeBo02_R", "bone": "root", "attachment": "GeBo02_R" },
+	{ "name": "GeBo03_R", "bone": "root", "attachment": "GeBo03_R" },
+	{ "name": "ChuiZi_L", "bone": "root", "attachment": "ChuiZi_L" },
+	{ "name": "Tou05_C", "bone": "root", "attachment": "Tou05_C" },
+	{ "name": "Tou04_C", "bone": "root", "attachment": "Tou04_C" },
+	{ "name": "Tou03_C", "bone": "root", "attachment": "Tou03_C" },
+	{ "name": "Tou02_C", "bone": "root", "attachment": "Tou02_C" },
+	{ "name": "Tou01_C", "bone": "root", "attachment": "Tou01_C" }
+],
+"skins": {
+	"default": {
+		"ChiBang_L": {
+			"ChiBang_L": { "x": 2734.5, "y": -475.5, "width": 1775, "height": 601 }
+		},
+		"ChiBang_R": {
+			"ChiBang_R": { "x": 1021.5, "y": -435, "width": 1603, "height": 800 }
+		},
+		"ShenTi_C": {
+			"ShenTi_C": { "x": 1776.5, "y": -585.5, "width": 475, "height": 827 }
+		},
+		"Tui03_L": {
+			"Tui03_L": { "x": 1805.5, "y": -1897.5, "width": 139, "height": 317 }
+		},
+		"Tui02_L": {
+			"Tui02_L": { "x": 1850, "y": -1550.5, "width": 192, "height": 515 }
+		},
+		"Tui01_L": {
+			"Tui01_L": { "x": 1865, "y": -1129.5, "width": 252, "height": 567 }
+		},
+		"Tui03_R": {
+			"Tui03_R": { "x": 1674, "y": -1692.5, "width": 186, "height": 261 }
+		},
+		"Tui02_R": {
+			"Tui02_R": { "x": 1602, "y": -1450, "width": 274, "height": 346 }
+		},
+		"Tui01_R": {
+			"Tui01_R": { "x": 1622.5, "y": -1121, "width": 321, "height": 566 }
+		},
+		"GeBo01_L": {
+			"GeBo01_L": { "x": 2046.5, "y": -584.5, "width": 207, "height": 417 }
+		},
+		"GeBo02_L": {
+			"GeBo02_L": { "x": 2127, "y": -849, "width": 132, "height": 272 }
+		},
+		"GeBo01_R": {
+			"GeBo01_R": { "x": 1586.5, "y": -536, "width": 215, "height": 348 }
+		},
+		"GeBo02_R": {
+			"GeBo02_R": { "x": 1490, "y": -799.5, "width": 156, "height": 331 }
+		},
+		"GeBo03_R": {
+			"GeBo03_R": { "x": 1472.5, "y": -986, "width": 113, "height": 134 }
+		},
+		"ChuiZi_L": {
+			"ChuiZi_L": { "x": 2130.5, "y": -1112, "width": 427, "height": 626 }
+		},
+		"Tou05_C": {
+			"Tou05_C": { "x": 1801.5, "y": -156, "width": 121, "height": 100 }
+		},
+		"Tou04_C": {
+			"Tou04_C": { "x": 1872, "y": -175, "width": 110, "height": 130 }
+		},
+		"Tou03_C": {
+			"Tou03_C": { "x": 1907, "y": -276, "width": 156, "height": 150 }
+		},
+		"Tou02_C": {
+			"Tou02_C": { "x": 1901.5, "y": -419, "width": 133, "height": 116 }
+		},
+		"Tou01_C": {
+			"Tou01_C": { "x": 1780.5, "y": -282, "width": 167, "height": 272 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
