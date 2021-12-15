@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine临时/geluolibasi/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "geluolibasi", "bone": "root", "attachment": "geluolibasi" }
+],
+"skins": {
+	"default": {
+		"geluolibasi": {
+			"geluolibasi": { "x": 356, "y": -512, "width": 658, "height": 940 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

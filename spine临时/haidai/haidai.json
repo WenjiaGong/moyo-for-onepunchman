@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine临时/haidai/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "haidai", "bone": "root", "attachment": "haidai" }
+],
+"skins": {
+	"default": {
+		"haidai": {
+			"haidai": { "x": 408, "y": -512, "width": 762, "height": 952 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

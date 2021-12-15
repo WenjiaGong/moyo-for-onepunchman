@@ -1,0 +1,13 @@
+
+geliugangxupu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+geliugangxupu
+  rotate: false
+  xy: 2, 207
+  size: 944, 739
+  orig: 954, 749
+  offset: 5, 5
+  index: -1

@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine临时/geliugangxupu/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "geliugangxupu", "bone": "root", "attachment": "geliugangxupu" }
+],
+"skins": {
+	"default": {
+		"geliugangxupu": {
+			"geliugangxupu": { "x": 512, "y": -400.5, "width": 954, "height": 749 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

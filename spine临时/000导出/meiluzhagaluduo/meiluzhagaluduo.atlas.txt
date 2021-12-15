@@ -1,0 +1,13 @@
+
+meiluzhagaluduo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meiluzhagaluduo
+  rotate: false
+  xy: 2, 431
+  size: 988, 559
+  orig: 998, 569
+  offset: 5, 5
+  index: -1

@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine临时/wenzinv/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "图层 1", "bone": "root", "attachment": "图层 1" }
+],
+"skins": {
+	"default": {
+		"图层 1": {
+			"图层 1": { "x": 512, "y": -498, "width": 986, "height": 960 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

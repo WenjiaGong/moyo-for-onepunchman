@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine临时/tiankongwang/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "tiankongwang", "bone": "root", "attachment": "tiankongwang" }
+],
+"skins": {
+	"default": {
+		"tiankongwang": {
+			"tiankongwang": { "x": 512, "y": -360, "width": 974, "height": 688 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

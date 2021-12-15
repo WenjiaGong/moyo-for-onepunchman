@@ -1,0 +1,13 @@
+
+haidai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haidai
+  rotate: false
+  xy: 2, 2
+  size: 752, 942
+  orig: 762, 952
+  offset: 5, 5
+  index: -1

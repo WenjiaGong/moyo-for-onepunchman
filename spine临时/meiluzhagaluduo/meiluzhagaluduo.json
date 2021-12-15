@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "E:/Resource/onepunchman_art/spine临时/meiluzhagaluduo/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "meiluzhagaluduo", "bone": "root", "attachment": "meiluzhagaluduo" }
+],
+"skins": {
+	"default": {
+		"meiluzhagaluduo": {
+			"meiluzhagaluduo": { "x": 512, "y": -289.5, "width": 998, "height": 569 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

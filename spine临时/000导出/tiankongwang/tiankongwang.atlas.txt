@@ -1,0 +1,13 @@
+
+tiankongwang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiankongwang
+  rotate: false
+  xy: 2, 288
+  size: 964, 678
+  orig: 974, 688
+  offset: 5, 5
+  index: -1
